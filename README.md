@@ -16,8 +16,8 @@ Python 3.8 или новее.
 ## Запуск
 
 ```bash
-git clone <ссылка-на-репозиторий>
-cd <папка-репозитория>
+git clone https://github.com/Skivez/speed-test.git
+cd speed-test
 python speedtest.py "https://speed.cloudflare.com/__down?bytes=10000000"
 ```
 
